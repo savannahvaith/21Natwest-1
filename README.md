@@ -4,4 +4,4 @@
 
 * :heavy_check_mark: [SOLID](https://github.com/savannahvaith/21Natwest-1/tree/solid)
 * :heavy_check_mark: [Generics](https://github.com/savannahvaith/21Natwest-1/tree/generics)
-
+* :heavy_check_mark: [Arrays](https://github.com/savannahvaith/21Natwest-1/tree/arrays)
