@@ -1,5 +1,7 @@
 # 21Natwest-1
 
-## SOLID Principles
+## Concepts Covered
 
-Switch to [this branch](https://github.com/savannahvaith/21Natwest-1/tree/solid) to get insight into SOLID
+* :heavy_check_mark: [SOLID](https://github.com/savannahvaith/21Natwest-1/tree/solid)
+* :heavy_check_mark: [Generics](https://github.com/savannahvaith/21Natwest-1/tree/generics)
+
